@@ -1,0 +1,99 @@
+body{
+	background-color: #FFFAFA;
+}
+
+
+.header{
+	background-color: #F1E3E3;
+	border-radius:8px;
+	height: 30px;
+}
+
+.header ul{
+	margin-left: 37.7%;
+	padding-top: 2px;
+}
+
+.header li{
+	display:inline;
+	padding: 0 5px;
+	font-size: 120%
+}
+
+.header a{
+	color:#A68785;
+	text-decoration: none;
+}
+
+a:hover{
+	color:black;
+}
+
+
+h1{
+	color : #8C6565;
+	text-align: center;
+	padding: 6%;
+	font-family: "Lora";
+}	
+
+#comp{
+	color:#A68785;
+	padding: 100px;
+	font-family: "Lora";
+	text-align:center;
+}
+
+
+.comp11{
+	position:fixed;
+	top: 40%;
+	right: 81%;
+	width: 250px;
+}
+
+
+.comp12{
+	position:fixed;
+	top: 40%;
+	right: 45%;
+	width: 250px;
+	display:center;
+}
+
+.comp13{
+	position:fixed;
+	top: 40%;
+	right: 10%;
+	width: 250px;
+}
+
+.fixed{
+	position:fixed;
+	top: 50%;
+	right: 81%;
+	width: 250px;
+	background-color:#F1E3E3;
+	border: 2px solid #C28E8E;
+	border-radius:8px;
+}
+
+.fixed2{
+	position:fixed;
+	top: 50%;
+	right: 44%;
+	width: 250px;
+	background-color:#F1E3E3;
+	border: 2px solid #C28E8E;
+	border-radius:8px;
+}
+
+.fixed3{
+	position:fixed;
+	top: 50%;
+	right: 10%;
+	width: 250px;
+	background-color:#F1E3E3;
+	border: 2px solid #C28E8E;
+	border-radius:8px;
+}

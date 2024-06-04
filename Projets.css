@@ -1,0 +1,293 @@
+body{
+	background-color: #FFFAFA;
+}
+
+
+.header{
+	background-color: #F1E3E3;
+	border-radius:8px;
+	height: 30px;
+}
+
+.header ul{
+	margin-left: 37.7%;
+	padding-top: 2px;
+}
+
+.header li{
+	display:inline;
+	padding: 0 5px;
+	font-size: 120%
+}
+
+.header a{
+	color:#A68785;
+	text-decoration: none;
+}
+
+a:hover{
+	color:black;
+}
+
+
+h1{
+	color : #8C6565;
+	text-align: center;
+	padding: 6%;
+	font-family: "Lora";
+}
+
+h3{
+	top: 35%;
+	margin: 3% 0 0 4%;
+	color:#A68785;
+	font-family: "Lora";
+}
+
+#p11{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: 3% 0 0 3%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p11 p{
+	display:center;
+	margin: 2% 3% 0 3%;
+}
+
+#p12{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 3%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p12 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+#p12 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}
+
+#p21{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: -16.4% 0 0 34%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p21 p{
+	display:center;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p22{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 34%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p22 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+#p22 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}
+
+#p31{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: -16.4% 0 0 65%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p31 p{
+	display:center;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p32{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 65%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p32 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+#p32 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}
+
+
+
+#p41{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: 5% 0 0 3%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p41 p{
+	display:center;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p42{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 3%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p42 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+
+#p42 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p51{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: -16.4% 0 0 34%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p51 p{
+	display:center;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p52{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 34%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p52 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+
+#p52 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}
+
+
+
+
+#p61{
+	position:relative;
+	height: 7%;
+	width:30%;
+	background-color: #C28E8E;
+	margin: -16.4% 0 0 65%;
+	border: 2px solid #C28E8E;
+	border-radius:8px 8px 0 0;
+	text-align:center;
+	font-family: "Lora";
+}
+
+#p61 p{
+	display:center;
+	margin: 3% 3% 0 3%;
+}
+
+
+#p62{
+	position:relative;
+	height: 200px;
+	width:30%;
+	background-color: #F1E3E3;
+	margin-left: 65%;
+	border: 2px solid #C28E8E;
+	border-radius:0 0 8px 8px;
+}
+
+#p62 p{
+	text-align:justify;
+	font-family: "Lora";
+	margin: 3% 3% 0 3%;
+}
+
+
+#p62 li{
+	list-style:none;
+	color: black;
+	margin: 3% 3% 0 3%;
+}

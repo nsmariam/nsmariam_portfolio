@@ -1,0 +1,75 @@
+body{
+	background-color: #FFFAFA;
+}
+
+.header{
+	background-color: #F1E3E3;
+	border-radius:8px;
+	height: 30px;
+}
+
+.header ul{
+	margin-left: 37.7%;
+	padding-top: 2px;
+}
+
+.header li{
+	display:inline;
+	padding: 0 5px;
+	font-size: 120%
+}
+
+.header a{
+	color:#A68785;
+	text-decoration: none;
+}
+
+a:hover{
+	color:black;
+}
+
+
+h1{
+	color : #8C6565;
+	text-align: center;
+	padding: 6%;
+	font-family: "Lora";
+}
+
+
+.logo{
+	margin-top:10%;
+	border: 2px solid #A68785;
+	border-radius:8px 8px 0 0;
+	background-color:#EDE6E6;
+	width:80%;
+	margin-left: 10%;
+	
+}
+.logo li{
+	list-style:none;
+	display: inline;
+	padding: 0 10%;
+}
+
+.Descriptions{
+	color:#A68785;
+	align-items: center;
+	display: inline-flex;
+	margin-top:1%;
+}
+
+.Descriptions #linkedin{
+	position:relative;
+	margin: 0 0 0 380px;
+}
+
+.Descriptions #email{
+	position:relative;
+	margin: 0 0 0 370px;
+}
+
+.Descriptions #cv{
+	position:relative;
+	margin: 0 0 0 390px;
+}
